@@ -1,0 +1,279 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Marck+Script);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lily+Script+One);
+
+body{
+  background-image: url("http://images.all-free-download.com/images/graphicthumb/digital_sound_background_310844.jpg");
+}
+
+/*LOGO code starts*/
+#title{
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+  font-size: 650%;
+  color: white;
+  text-shadow: salmon 1px 1px,
+    salmon 2px 2px,
+    salmon 3px 3px,
+    lightblue 4px 4px,
+    lightblue 5px 5px,
+    lightblue 6px 6px,
+    #31898f 7px 7px,
+    #31898f 8px 8px,
+    #31898f 9px 9px;
+}
+
+#M{
+  color: white;
+  font-family: 'Satisfy', cursive;
+  font-size: 500%;
+  position: absolute;
+  left: 1060px;
+  top: 150px;
+  text-shadow: salmon 1px 1px,
+  salmon 2px 2px,
+  salmon 3px 3px,
+  lightblue 4px 4px,
+  lightblue 5px 5px,
+  lightblue 6px 6px,
+  #31898f 7px 7px,
+  #31898f 8px 8px,
+  #31898f 9px 9px;
+}
+#m{
+  color: #31898f;
+  font-family: 'Lily Script One', cursive;
+  font-size: 200%;
+  position: absolute;
+  left: 1108px;
+  top: 179px;
+  text-shadow: lightblue 1px 1px,
+  lightblue 2px 2px,
+  lightblue 3px 3px,
+  salmon 4px 4px,
+  salmon 5px 5px,
+  salmon 6px 6px,
+  white 7px 7px,
+  white 8px 8px,
+  white 9px 9px;
+}
+
+#phone{
+  width: 155px;
+  height: 80px;
+  position: absolute;
+  left: 1020px;
+  top: 150px;
+}
+/*LOGO code ends*/
+
+#butt1{
+  position: absolute;
+  left: 265px;
+  top: 160px;
+  text-shadow: #a62f26 1px 1px,
+    #a62f26 2px 2px,
+    #a62f26 3px 3px,
+    #a62f26 4px 4px,
+    #a62f26 5px 5px,
+    #a62f26 6px 6px,
+    #a62f26 7px 7px,
+    #a62f26 8px 8px,
+    #a62f26 9px 9px,
+    #a62f26 10px 10px,
+    #a62f26 11px 11px,
+    #a62f26 12px 12px,
+    #a62f26 13px 13px,
+    #a62f26 14px 14px,
+    #a62f26 15px 15px,
+    #a62f26 16px 16px,
+    #a62f26 17px 17px,
+    #a62f26 18px 18px,
+    #a62f26 19px 19px,
+    #a62f26 20px 20px,
+    #a62f26 21px 21px,
+    #a62f26 22px 22px;
+  font-size: 130%;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+  border: 6px solid #a62f26;
+  border-radius: 10px;
+  padding: 15px;
+  width: 100px;
+  height: 26px;
+  background-color: #db453d;
+  cursor: pointer;
+}
+
+
+a{
+  color: white;
+}
+
+#butt2{
+  position: absolute;
+  left: 420px;
+  top: 160px;
+  text-shadow: #ff524f 1px 1px,
+    #ff524f 2px 2px,
+    #ff524f 3px 3px,
+    #ff524f 4px 4px,
+    #ff524f 5px 5px,
+    #ff524f 6px 6px,
+    #ff524f 7px 7px,
+    #ff524f 8px 8px,
+    #ff524f 9px 9px,
+    #ff524f 10px 10px,
+    #ff524f 11px 11px,
+    #ff524f 12px 12px,
+    #ff524f 13px 13px,
+    #ff524f 14px 14px,
+    #ff524f 15px 15px,
+    #ff524f 16px 16px,
+    #ff524f 17px 17px,
+    #ff524f 18px 18px,
+    #ff524f 19px 19px;
+  font-size: 150%;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+  border: 6px solid #ff524f;
+  border-radius: 10px;
+  padding: 15px;
+  width: 100px;
+  height: 26px;
+  background-color: #f29913;
+  cursor: pointer;
+}
+
+#butt3{
+  position: absolute;
+  left: 575px;
+  top: 160px;
+  text-shadow: #37ab5f 1px 1px,
+    #37ab5f 2px 2px,
+    #37ab5f 3px 3px,
+    #37ab5f 4px 4px,
+    #37ab5f 5px 5px,
+    #37ab5f 6px 6px,
+    #37ab5f 7px 7px,
+    #37ab5f 8px 8px,
+    #37ab5f 9px 9px,
+    #37ab5f 10px 10px,
+    #37ab5f 11px 11px,
+    #37ab5f 12px 12px,
+    #37ab5f 13px 13px,
+    #37ab5f 14px 14px,
+    #37ab5f 15px 15px,
+    #37ab5f 16px 16px,
+    #37ab5f 17px 17px,
+    #37ab5f 18px 18px,
+    #37ab5f 19px 19px;
+  font-size: 150%;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+  border: 6px solid #37ab5f;
+  border-radius: 10px;
+  padding: 15px;
+  width: 100px;
+  height: 26px;
+  background-color: #8cbd73;
+  cursor: pointer;
+}
+
+#butt4{
+  position: absolute;
+  left: 730px;
+  top: 160px;
+  text-shadow: #31898f 1px 1px,
+    #31898f 2px 2px,
+    #31898f 3px 3px,
+    #31898f 4px 4px,
+    #31898f 5px 5px,
+    #31898f 6px 6px,
+    #31898f 7px 7px,
+    #31898f 8px 8px,
+    #31898f 9px 9px,
+    #31898f 10px 10px,
+    #31898f 11px 11px,
+    #31898f 12px 12px,
+    #31898f 13px 13px,
+    #31898f 14px 14px,
+    #31898f 15px 15px,
+    #31898f 16px 16px,
+    #31898f 17px 17px;
+  font-size: 150%;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+  border: 6px solid #31898f;
+  border-radius: 10px;
+  padding: 15px;
+  width: 100px;
+  height: 26px;
+  background-color: #6ac5cc;
+  cursor: pointer;
+}
+
+#butt5{
+  position: absolute;
+  left: 885px;
+  top: 160px;
+  text-shadow: #525b9c 1px 1px,
+    #525b9c 2px 2px,
+    #525b9c 3px 3px,
+    #525b9c 4px 4px,
+    #525b9c 5px 5px,
+    #525b9c 6px 6px,
+    #525b9c 7px 7px,
+    #525b9c 8px 8px,
+    #525b9c 9px 9px,
+    #525b9c 10px 10px,
+    #525b9c 11px 11px,
+    #525b9c 12px 12px,
+    #525b9c 13px 13px,
+    #525b9c 14px 14px,
+    #525b9c 15px 15px,
+    #525b9c 16px 16px,
+    #525b9c 17px 17px,
+    #525b9c 18px 18px,
+    #525b9c 19px 19px,
+    #525b9c 20px 20px,
+    #525b9c 21px 21px;
+  font-size: 150%;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: white;
+  border: 6px solid #525b9c;
+  border-radius: 10px;
+  padding: 15px;
+  width: 100px;
+  height: 26px;
+  background-color: #b37cc4;
+  cursor: pointer;
+}
+
+#content{
+  font-size: 150%;
+  font-family: 'Marck Script', cursive;
+  position: absolute;
+  left: 250px;
+  top: 265px;
+  text-align: center;
+  color: white;
+  border:2px solid white;
+  margin: auto;
+  padding: 30px;
+  width: 600px;
+  height: 600px;
+  background-color: black;
+}
+
